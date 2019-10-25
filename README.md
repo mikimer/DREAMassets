@@ -1,4 +1,4 @@
-# D.R.E.A.M.
+# D.R.E.A.M. -- Data Rules Everything Around Me
 
 ## Raspberry Pi Setup
 
